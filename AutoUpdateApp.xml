@@ -4,7 +4,7 @@
         <version>3.0.0.0</version> 
         <url>https://raw.githubusercontent.com/touqeerahmadnasir/autoupdate/master/AutoUpdateApp.exe</url> 
         <fileName>AutoUpdateApp.exe</fileName> 
-        <md5>001137E7681B68D579A7B8DB3F40ACDA</md5>
+        <md5>D6980DB10A903BF1F3EA2724622446FE</md5>
         <description>Update: 06/19/2014:
         1. Added notification message when the current version is already the latest.</description> 
         <launchArgs></launchArgs> 
