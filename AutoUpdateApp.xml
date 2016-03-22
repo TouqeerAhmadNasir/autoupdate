@@ -1,0 +1,12 @@
+<?xml version="1.0"?> 
+<UpdateXml> 
+	<update appID="AutoUpdateApp"> 
+        <version>3.0.0.0</version> 
+        <url>https://raw.githubusercontent.com/touqeerahmadnasir/autoupdate/master/AutoUpdateApp.exe</url> 
+        <fileName>AutoUpdateApp.exe</fileName> 
+        <md5>1E0178F62E7B0F05AEBB7AC4546DECFB</md5>
+        <description>Update: 06/19/2014:
+        1. Added notification message when the current version is already the latest.</description> 
+        <launchArgs></launchArgs> 
+	</update> 
+</UpdateXml>
