@@ -1,10 +1,10 @@
 <?xml version="1.0"?> 
 <UpdateXml> 
 	<update appID="setup"> 
-        <version>3.0.0.0</version> 
+        <version>4.0.0.0</version> 
         <url>https://raw.githubusercontent.com/touqeerahmadnasir/autoupdate/master/ausetup.zip</url> 
         <fileName>ausetup.zip</fileName> 
-        <md5>C2966F64B01ABAEDF1A4A0948A611BEE</md5>
+        <md5>3E402EF94DA9FB5FF8E5520DDF7BD30C</md5>
         <description>Update: 06/19/2014:
         1. Added notification message when the current version is already the latest.</description> 
         <launchArgs></launchArgs> 
