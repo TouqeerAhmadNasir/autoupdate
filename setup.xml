@@ -4,7 +4,7 @@
         <version>3.0.0.0</version> 
         <url>https://raw.githubusercontent.com/touqeerahmadnasir/autoupdate/master/ausetup.zip</url> 
         <fileName>ausetup.zip</fileName> 
-        <md5>FD094F71E370F079E2D2AB99A18FE169</md5>
+        <md5>C27C5763380230286962650C2ECC6B5D</md5>
         <description>Update: 06/19/2014:
         1. Added notification message when the current version is already the latest.</description> 
         <launchArgs></launchArgs> 
