@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-16"?>
-<AppUpdate xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <version>3.0.0.0</version>
-  <uri>https://raw.githubusercontent.com/TouqeerAhmadNasir/autoupdate/master/ausetup.zip</uri>
-  <fileName>Setup</fileName>
-  <md5>0301</md5>
-  <description>Setup of application</description>
-</AppUpdate>
