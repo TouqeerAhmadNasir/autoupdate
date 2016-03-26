@@ -1,0 +1,8 @@
+<?xml version="1.0">
+<AppUpdate>
+  <version>3.0.0.0</version>
+  <uri>https://raw.githubusercontent.com/TouqeerAhmadNasir/autoupdate/master/ausetup.zip</uri>
+  <fileName>Setup</fileName>
+  <md5>0301</md5>
+  <description>Setup of application</description>
+</AppUpdate>
